@@ -1,5 +1,5 @@
-current_distance = int(input('Текущая дистанция: '))
-result_distance = int(input('Желаемая дистанция: '))
+current_distance = int(input('Ваша екущая дистанция: '))
+result_distance = int(input('Ваша желаемая дистанция: '))
 
 day_number = 1
 
